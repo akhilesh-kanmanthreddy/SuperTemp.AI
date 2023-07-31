@@ -2,8 +2,6 @@
 #dataset
 https://archive.ics.uci.edu/dataset/464/superconductivty+data
 
-#google colab
-https://colab.research.google.com/drive/1xkYGqvaf1Cmc1WALDt-YmHndx7FFAS82#scrollTo=lw-SZSILinoT
 
 ![image](https://github.com/akhilesh-kanmanthreddy/Superconductivity_Temperature_Dataframe_Project/assets/116981380/c2829d7e-c90e-4ebd-9d8b-1d958a263ae6)
 
